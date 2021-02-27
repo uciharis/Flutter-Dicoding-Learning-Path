@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6043951c-908c-431d-ba90-146f6d350e3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Dicoding Flutter Pemula/submission_flutter/lib/pages/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Dicoding Flutter Pemula/submission_flutter/lib/pages/home_page.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntellijIDEA\IntelliJ IDEA Community Edition 2019.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iqbMDemffAiDmkjEigIkqmzmE0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../[Sources] University Of Lampung/[2] Praktikum PBO D3 2019/LatihanPraktikum" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\K-FlutterProject\Flutter Code Anyone to Github\DICODING DartPemula\dicoding_memulai_dart_pemula\lib\dart_fundamental" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.AsyncAwait.dart">
+    <configuration name="AsyncAwait.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/dicoding_memulai_dart_pemula/lib/future/AsyncAwait.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/dicoding_memulai_dart_pemula" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Closure.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/dicoding_memulai_dart_pemula/lib/object_oriented_proggramming/closure/Closure.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/dicoding_memulai_dart_pemula" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CompleteWithError.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/dicoding_memulai_dart_pemula/lib/future/CompleteWithError.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/dicoding_memulai_dart_pemula" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Future.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/dicoding_memulai_dart_pemula/lib/future/Future.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/dicoding_memulai_dart_pemula" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HigherOrderFunction.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/dicoding_memulai_dart_pemula/lib/object_oriented_proggramming/higherorderfunction/HigherOrderFunction.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/dicoding_memulai_dart_pemula" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.AsyncAwait.dart" />
+        <item itemvalue="Dart Command Line App.CompleteWithError.dart" />
+        <item itemvalue="Dart Command Line App.Future.dart" />
+        <item itemvalue="Dart Command Line App.Closure.dart" />
+        <item itemvalue="Dart Command Line App.HigherOrderFunction.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6043951c-908c-431d-ba90-146f6d350e3e" name="Default Changelist" comment="" />
+      <created>1602638019676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602638019676</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="133" y="9" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602792935297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="133" y="9" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602792935297" />
+    <state x="410" y="59" key="FileChooserDialogImpl" timestamp="1603254956811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="59" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603254956811" />
+    <state width="1311" height="175" key="GridCell.Tab.0.bottom" timestamp="1602833190462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1602744939581" />
+    <state width="1311" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602833190462" />
+    <state width="1311" height="175" key="GridCell.Tab.0.center" timestamp="1602833190462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="216" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1602744939581" />
+    <state width="1311" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602833190462" />
+    <state width="1311" height="175" key="GridCell.Tab.0.left" timestamp="1602833190461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="216" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1602744939580" />
+    <state width="1311" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602833190461" />
+    <state width="1311" height="175" key="GridCell.Tab.0.right" timestamp="1602833190462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="216" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1602744939581" />
+    <state width="1311" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602833190462" />
+    <state width="1311" height="206" key="GridCell.Tab.1.bottom" timestamp="1602801465568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="206" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602801465568" />
+    <state width="1311" height="206" key="GridCell.Tab.1.center" timestamp="1602801465568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="206" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602801465568" />
+    <state width="1311" height="206" key="GridCell.Tab.1.left" timestamp="1602801465568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="206" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602801465568" />
+    <state width="1311" height="206" key="GridCell.Tab.1.right" timestamp="1602801465568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="206" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602801465568" />
+    <state x="67" y="0" key="SettingsEditor" timestamp="1602803136404">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="67" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602803136404" />
+    <state x="255" y="159" key="run.anything.popup" timestamp="1602789560228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="255" y="159" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602789560228" />
+    <state x="262" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1602790360009">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602790360009" />
+  </component>
+</project>
