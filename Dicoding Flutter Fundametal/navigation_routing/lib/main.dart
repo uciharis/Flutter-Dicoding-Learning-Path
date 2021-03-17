@@ -12,8 +12,7 @@ class MyApp extends StatelessWidget {
       title: "Navigation and Routing",
       theme: ThemeData(
           textTheme: GoogleFonts.poppinsTextTheme(),
-          visualDensity: VisualDensity.adaptivePlatformDensity,
-          primarySwatch: Colors.blue),
+          visualDensity: VisualDensity.adaptivePlatformDensity),
       debugShowCheckedModeBanner: false,
       initialRoute: '-',
       routes: {
