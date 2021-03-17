@@ -8,10 +8,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: "Calculator",
-      theme: ThemeData(
-          primarySwatch: Colors.blueGrey,
-          visualDensity: VisualDensity.adaptivePlatformDensity),
+      theme: ThemeData(visualDensity: VisualDensity.adaptivePlatformDensity),
       home: MyHomePage(),
     );
   }
