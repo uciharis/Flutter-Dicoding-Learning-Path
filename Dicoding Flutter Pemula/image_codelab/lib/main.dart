@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      theme: ThemeData.dark(),
+      debugShowCheckedModeBanner: false,
       title: 'Image Codelab',
       home: ImageScreen(),
     );
@@ -25,15 +25,21 @@ class _ImageScreenState extends State<ImageScreen> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        body: Column(
-          children: <Widget>[
-            Image.network(
-              'https://picsum.photos/200/300',
-              height: 200,
-              width: 200,
-            ),
-            Image.asset('asset/brokoli.png', width: 200, height: 200),
-          ],
+        body: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: <Widget>[
+              ClipRRect(
+                borderRadius: BorderRadius.circular(15),
+                child: Image.network(
+                  'https://www.computerhope.com/jargon/r/random-dice.jpg',
+                  height: 200,
+                  width: 200,
+                ),
+              ),
+            ],
+          ),
         ),
       ),
     );
